@@ -20,6 +20,7 @@ JavaScript
 Project-Structure
 
 project-folder/
+
 │── index.html
 │── women.html
 │── men.html
